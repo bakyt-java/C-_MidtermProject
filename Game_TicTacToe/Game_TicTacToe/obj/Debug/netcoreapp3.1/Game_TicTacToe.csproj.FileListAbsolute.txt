@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Game_TicTacToe\Game_TicTacToe\bin\Debug\netcoreapp3.1\Game_TicTacToe.exe
+C:\Users\user\source\repos\Game_TicTacToe\Game_TicTacToe\bin\Debug\netcoreapp3.1\Game_TicTacToe.deps.json
+C:\Users\user\source\repos\Game_TicTacToe\Game_TicTacToe\bin\Debug\netcoreapp3.1\Game_TicTacToe.runtimeconfig.json
+C:\Users\user\source\repos\Game_TicTacToe\Game_TicTacToe\bin\Debug\netcoreapp3.1\Game_TicTacToe.runtimeconfig.dev.json
+C:\Users\user\source\repos\Game_TicTacToe\Game_TicTacToe\bin\Debug\netcoreapp3.1\Game_TicTacToe.dll
+C:\Users\user\source\repos\Game_TicTacToe\Game_TicTacToe\bin\Debug\netcoreapp3.1\Game_TicTacToe.pdb
+C:\Users\user\source\repos\Game_TicTacToe\Game_TicTacToe\obj\Debug\netcoreapp3.1\Game_TicTacToe.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Game_TicTacToe\Game_TicTacToe\obj\Debug\netcoreapp3.1\Game_TicTacToe.Form1.resources
+C:\Users\user\source\repos\Game_TicTacToe\Game_TicTacToe\obj\Debug\netcoreapp3.1\Game_TicTacToe.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Game_TicTacToe\Game_TicTacToe\obj\Debug\netcoreapp3.1\Game_TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Game_TicTacToe\Game_TicTacToe\obj\Debug\netcoreapp3.1\Game_TicTacToe.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Game_TicTacToe\Game_TicTacToe\obj\Debug\netcoreapp3.1\Game_TicTacToe.AssemblyInfo.cs
+C:\Users\user\source\repos\Game_TicTacToe\Game_TicTacToe\obj\Debug\netcoreapp3.1\Game_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Game_TicTacToe\Game_TicTacToe\obj\Debug\netcoreapp3.1\Game_TicTacToe.dll
+C:\Users\user\source\repos\Game_TicTacToe\Game_TicTacToe\obj\Debug\netcoreapp3.1\Game_TicTacToe.pdb
+C:\Users\user\source\repos\Game_TicTacToe\Game_TicTacToe\obj\Debug\netcoreapp3.1\Game_TicTacToe.genruntimeconfig.cache
